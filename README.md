@@ -1,6 +1,5 @@
 # Smart Grow 🌱
-
-Smart Grow is an open-source indoor grow automation system based on Arduino/ESP32.
+Smart Grow is an open-source indoor grow automation project focused on environmental monitoring, intelligent ventilation control, and scalable automation using Arduino and ESP32 platforms. The system is designed for indoor grow tents and aims to provide affordable, modular, and efficient automation for temperature, humidity, airflow, and future irrigation management.
 
 ## Goal
 Create an affordable and scalable environmental automation platform for indoor grow tents.
